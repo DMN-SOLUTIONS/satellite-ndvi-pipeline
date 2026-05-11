@@ -4,7 +4,7 @@ Automated satellite imagery processing pipeline with a QGIS plugin for vegetatio
 
 **Author:** Michel M. Nzikou  
 **Contact:** michel@dmnsolutions.com.au  
-**Organization:** [DMN Solutions](https://github.com/DMN-SOLUTIONS)
+**Organization:** [DMN SOLUTIONS](https://github.com/DMN-SOLUTIONS)
 
 ---
 
@@ -20,6 +20,8 @@ Automated satellite imagery processing pipeline with a QGIS plugin for vegetatio
 ---
 
 ## Demo
+
+![Satellite NDVI Pipeline Demo](demo.gif)
 
 ### Quick Start (2 minutes)
 
